@@ -1,5 +1,5 @@
 "use strict";
-let letters = ['w', 'e', ' ', 'a', 'r', 'e', ' ', 'b', 's', 't'];
+let letters = ['w', 'e', ' ', 'a', 'r', 'e', ' ', 'B', 'S', 'T'];
 let words = createWords(letters);
 words.forEach(word => {
     console.log(word);
@@ -18,4 +18,5 @@ function createWords(letters) {
     });
     return result;
 }
+console.log(createWords(letters));
 //# sourceMappingURL=index.js.map

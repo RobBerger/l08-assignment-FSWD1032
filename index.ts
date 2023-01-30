@@ -19,6 +19,7 @@ function createWords(letters: string[]): string[]
             temp = "";
         }
     });
-
     return result;
 }
+
+console.log(createWords(letters));

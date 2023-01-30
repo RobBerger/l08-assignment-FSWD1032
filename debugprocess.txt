@@ -6,4 +6,8 @@ are
 
 3. Changed BST to lower case... that didn't change anything
 
-4. 
+4. Console logged ltr in letters.foEach loop and all looks well
+
+5. Console logged letters inside createWords and all looks well
+
+6. 
