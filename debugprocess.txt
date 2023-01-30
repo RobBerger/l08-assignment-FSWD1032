@@ -2,4 +2,8 @@
 we
 are
 
-2.
+2. Setup breakpoint on line 14 and watched ltr... program seemed to go through the BST part fine
+
+3. Changed BST to lower case... that didn't change anything
+
+4. 

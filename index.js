@@ -1,5 +1,5 @@
 "use strict";
-let letters = ['w', 'e', ' ', 'a', 'r', 'e', ' ', 'B', 'S', 'T'];
+let letters = ['w', 'e', ' ', 'a', 'r', 'e', ' ', 'b', 's', 't'];
 let words = createWords(letters);
 words.forEach(word => {
     console.log(word);
