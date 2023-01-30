@@ -10,4 +10,8 @@ are
 
 5. Console logged letters inside createWords and all looks well
 
-6. 
+6. Consol logged  createWords(letters) and it didn't have BST
+
+7. Ran with breakpoint at 14... watched temp and ltr... loop finishes with BST as temp... not in array
+
+8. Added result.push(temp); before return result; and that seems to have fixed the problem

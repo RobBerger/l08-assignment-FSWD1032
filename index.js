@@ -16,7 +16,7 @@ function createWords(letters) {
             temp = "";
         }
     });
+    result.push(temp);
     return result;
 }
-console.log(createWords(letters));
 //# sourceMappingURL=index.js.map
